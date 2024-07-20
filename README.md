@@ -2,11 +2,11 @@
 
 ### ป้อนข้อมูลนักศึกษา
 
-รหัส นศ.:
+รหัส นศ.:660612149
 
-ชื่อ-สกุล :
+ชื่อ-สกุล :Nanthawat Sirisuksumran
 
-Vercel URL :
+Vercel URL :https://lab08-2567-660612149.vercel.app/
 
 ---
 
